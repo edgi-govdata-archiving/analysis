@@ -12,6 +12,6 @@ Relevant Files:
 **This analysis includes**:
 - Numbers for unique nominated URLs vs. pages with data
 - Breakdown of numbers above by agency
-- Progess of primer line completion. **Disclaimer**: Using total number of nominated URLs is NOT a good metric to use to understand how much work was done or if an agency was seeded comprehensively. Completion of primer lines is the best way we know at the moment to denote that a section of a website was screened appropriately.
+- Progess of primer line completion. **Disclaimer: Using total number of nominated URLs is NOT a good metric to use to understand how much work was done or if an agency was seeded comprehensively. Completion of primer lines is the best way we know at the moment to denote that a section of a website was screened appropriately.**
 
 Toly Rinberg - April 1, 2017
