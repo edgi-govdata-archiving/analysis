@@ -1,0 +1,16 @@
+id_agency,agency,agency_eot_name
+1,EPA,Environmental Protection Agency
+2,DOE,Energy Department
+3,NOAA,National Oceanic and Atmospheric Administration
+4,OSHA,Occupational Safety and Health Administration
+5,"NASA: SMD",National Aeronautics and Space Administration: Science Mission Directorate
+6,"NASA: SED",National Aeronautics and Space Administration: Sciences and Exploration Directorate
+7,USDA,Agriculture Department
+8,DOI,Interior Department
+9,USGS,United States Geological Survey 
+10,DOT,Department of Transportation 
+11,DOJ,Department of Justice
+12,DOL,Department of Labor
+13,HHS,Health and Human Services
+14,HUD,Housing and Urban Development
+15,ED,Education
