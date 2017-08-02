@@ -1,5 +1,6 @@
-# URL Nomination Analysis
-This notebook analyzes URLs outputted by EDGI's Nomination Tool. 
+# Archive Nominations Analysis
+
+This notebook analyzes URLs outputted by EDGI's Nomination Tool.
 
 **Note**: In this analysis, the term "uncrawlable" is avoided as it is not an appropriate representation of what was nominated. Instead, the term "pages with data" is used. This corresponds to URLs that are hosting information or data that is flagged for archiving and "data" is used in a broad sense to mean collections of files, FTP pages, databases, or visualization/interactive features.
 
@@ -7,7 +8,6 @@ Relevant Files:
 - *agency_database.csv* - A database of federal agencies and corresponding codes
 - *primer_db_040117.csv* - List of subprimer lines and dates of completion
 - *NominationToolOutput_121716to040117_cleaned_anon.csv* - Cleaned and anonymized output from the Nomination Tool from Dec 17, 2016 to April 1, 2017
-
 
 **This analysis includes**:
 - Numbers for unique nominated URLs vs. pages with data
